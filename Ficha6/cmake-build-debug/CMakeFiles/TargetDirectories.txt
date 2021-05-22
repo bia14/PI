@@ -1,0 +1,3 @@
+/home/beatriz/Desktop/1º ANO/2º Semestre/PI/uFicha6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/beatriz/Desktop/1º ANO/2º Semestre/PI/uFicha6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/beatriz/Desktop/1º ANO/2º Semestre/PI/uFicha6/cmake-build-debug/CMakeFiles/uFicha6.dir
